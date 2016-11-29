@@ -16,3 +16,4 @@ Public Class Form1
         Me.lblMessage.Text = "The lowest rate is " & ratesArr(0).ToString("#.00") & "%"
     End Sub
 End Class
+.
